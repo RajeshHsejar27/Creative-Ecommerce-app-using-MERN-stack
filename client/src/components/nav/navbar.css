@@ -1,0 +1,32 @@
+#navbar{
+    background-color: white;
+    font-family: 'Cinzel', serif !important;
+    
+  backdrop-filter: blur(90px);
+}
+.nav-link{
+    color:black;
+    font-family: 'Cinzel', serif !important;
+    
+}
+
+.nav
+    {
+        border:3px solid black;
+        color:black;
+        font-family: 'Cinzel', serif !important;
+    }
+a {
+    border-radius: 2px black !important;
+    border-color: black !important;
+}
+
+.bg-light {
+    border-radius: 50px;
+    border: 5px solid black;
+    }
+.list-group-item::after{
+    background-color: white !important;
+}
+
+

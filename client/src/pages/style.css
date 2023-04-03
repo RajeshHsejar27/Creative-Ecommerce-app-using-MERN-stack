@@ -1,0 +1,72 @@
+.ant-checkbox-wrapper{
+    color: white !important;
+    font-family: 'Cinzel', serif !important;
+}
+span{
+    color: white !important;
+    font-family: 'Cinzel', serif !important;
+}
+
+.cart{
+border-radius: 50px;
+border: 5px solid black;
+}
+.cart{
+    border-radius: 50px;
+    border: 5px solid black;
+    }
+.intro{
+    border-radius: 50px;
+    border: 5px solid black;
+    }
+.artifact{
+    border-radius: 50px;
+    border: 5px solid black;
+    }
+.category{
+    border-radius: 50px;
+    border: 5px solid black;
+    }
+.gold{
+    border-radius: 50px;
+    border: 5px solid black;
+    }
+.blureff{
+    backdrop-filter: blur(8px);
+    color:white !important;
+}
+a{
+    color:black !important; 
+    font-family: 'Cinzel', serif !important;  
+}
+
+.row-full{
+   width: fit-content !important;
+    height: auto ;
+    color: white;
+    backdrop-filter: blur(25px) !important;
+    overflow:scroll;
+    margin-right: 18px !important;
+    margin-left: 18px !important;
+   }
+p{
+    font-size: 22px;
+}
+
+.blure{
+    color:white !important;
+    font-family: 'Cinzel', serif !important;
+}
+
+.ant-select-selection-item {
+    color:white !important;
+    font-family: 'Cinzel', serif !important;
+} 
+.ant-select-selector{
+    color:white !important;
+    font-family: 'Cinzel', serif !important;
+    
+}
+body,html{
+    font-family: 'Cinzel', serif !important;
+}

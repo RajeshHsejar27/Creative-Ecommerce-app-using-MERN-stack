@@ -1,0 +1,104 @@
+.active{
+    text-decoration: underline !important;
+    text-decoration-thickness: 4px !important;
+}
+
+.pointer{
+    cursor:pointer;
+}
+
+.card-button{
+    border-radius: 30px;
+
+}
+
+/* for removing the search glow effect */
+.form-control{
+  -webkit-box-shadow: none !important;
+  outline: -webkit-focus-ring-color auto 0px !important;
+}
+
+.hoverable:hover{
+    border-right:6px solid grey;
+    border-bottom:6px solid grey;
+    border-radius: 20px;
+}
+
+.ant-checkbox-wrapper:first-of-type{
+  margin-left:8px;
+}
+
+/* jumbotron color animation css */
+.jumbotron-intro {
+    width: 30wh;
+    height: 30vh;
+    color: #fff;
+    background-image: url('../src/components/images/mayhem.jpg');
+    background-repeat: no-repeat;
+  background-size:cover;
+  border-radius: 100px;
+  }
+  .jumbotron-artifact {
+    width: 30wh;
+    height: 30vh;
+    color: #fff;
+    background-image: url('../src/components/images/artificat.jpg');
+    background-repeat: no-repeat;
+  background-size:cover;
+  border-radius: 100px;
+  }
+  .jumbotron-category {
+    width: 30wh;
+    height: 30vh;
+    color: #fff;
+    background-image: url('../src/components/images/category.jpg');
+    background-repeat: no-repeat;
+  background-size:cover;
+  border-radius: 100px;
+  }
+  .jumbotron-cart {
+    width: 30wh;
+    height: 30vh;
+    color: #fff;
+    background-image: url('../src/components/images/cart.jpg');
+    background-repeat: no-repeat;
+  background-size:cover;
+  border-radius: 100px;
+  }
+  .jumbotron-search {
+    width: 30wh;
+    height: 30vh;
+    color: #fff;
+    background-image: url('../src/components/images/search.jpg');
+    background-repeat: no-repeat;
+  background-size:cover;
+  border-radius: 100px;
+  }
+  .jumbotron-login {
+    width: 30wh;
+    height: 30vh;
+    color: #fff;
+    background-image: url('../src/components/images/login.jpg');
+    background-repeat: no-repeat;
+  background-size:cover;
+  border-radius: 100px;
+  }
+  .jumbotron-register {
+    width: 30wh;
+    height: 30vh;
+    color: #fff;
+    background-image: url('../src/components/images/register.jpg');
+    background-repeat: no-repeat;
+  background-size:cover;
+  border-radius: 100px;
+  }
+   
+  
+
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    background: url(../src/components/images/dark.jpg);
+  background-size:cover;
+  font-family: 'Cinzel', serif;
+}

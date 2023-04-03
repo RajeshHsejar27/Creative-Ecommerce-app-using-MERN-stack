@@ -1,0 +1,10 @@
+.row-full{
+    width: 100vw;
+    height: auto;
+    color: white;
+    backdrop-filter: blur(30px);
+    overflow: auto;
+   }
+p{
+    font-size: 22px;
+}

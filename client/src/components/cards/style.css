@@ -1,0 +1,17 @@
+h4, h6,h5{
+    color:black;
+}
+.btn{
+backdrop-filter: blur(90px);
+}
+.carti{
+    backdrop-filter: blur(30px);
+}
+.pcard{
+    background: transparent !important;
+    backdrop-filter: blur(30px);
+}
+.pic{
+    background: transparent !important;
+    backdrop-filter: blur(30px);
+}

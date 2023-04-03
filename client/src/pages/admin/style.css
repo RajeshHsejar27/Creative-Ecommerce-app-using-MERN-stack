@@ -1,0 +1,26 @@
+/* Select{
+    background-color: none !important;
+    backdrop-filter: blur(5px);
+
+} */
+
+/* .light{
+backdrop-filter: blur(6px);
+color:white !important;
+}
+.light:after::selection::selection{
+    backdrop-filter: blur(6px);
+    color:white !important;
+    } */
+span{
+    color:white !important;
+}
+
+.ant-select-selection-item {
+    color:black !important;
+} 
+.ant-select-selector{
+    color:black !important;
+    
+}
+
