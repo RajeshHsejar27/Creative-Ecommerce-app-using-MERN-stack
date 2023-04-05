@@ -3,7 +3,6 @@ import { useNavigate } from "react-router-dom";
 import { useCart } from "../../context/cart";
 import { useEffect,useState } from "react";
 import axios from "axios";
-// import DropIn from 'braintree-web-drop-in-react';
 import toast from 'react-hot-toast';
 import ".//style.css";
 import QR from '../images/qrcode.jpeg';
