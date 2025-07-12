@@ -18,7 +18,7 @@ Mayhem Cart is a MERN-stack e-commerce marketplace where adventurers can browse,
 
 ## Visit at:
 
-- **Hosted at**: https://the-mayhem-cart.onrender.com  
+- **The Lair**: https://the-mayhem-cart.onrender.com  
 
 ---
 
