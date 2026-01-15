@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node index.js"
-  }, 
+  },
   "keywords": [
     "ecommerce",
     "fullstack"
@@ -25,5 +25,8 @@
     "nodemon": "^2.0.21",
     "react-hot-toast": "^2.4.0",
     "slugify": "^1.6.5"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
