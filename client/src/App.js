@@ -27,6 +27,7 @@ import CategoryView from "./pages/CategoryView";
 import Cart from "./pages/Cart";
 import AdminOrders from './pages/admin/Orders';
 import Loading from "./components/routes/Loading";
+import React, { useEffect } from "react";   // <-- added
 
 const PageNotFound=()=>{
   return <><Loading /> </>;
@@ -34,6 +35,13 @@ const PageNotFound=()=>{
 
 
 export default function App() {
+  useEffect(() => {
+    // Ping backend once when app loads
+    fetch("https://mayhem-cart.onrender.com/ping") //web service address
+      .then(res => console.log("Backend wake-up:", res.status))
+      .catch(err => console.error("Wake-up ping failed:", err));
+  }, []);
+  
   return (
     <BrowserRouter>
     <Menu />
