@@ -2,7 +2,7 @@
 
 > “Mayhem is a kind of place where no human would ever dare to venture. Those who do, would end up in a river and in a state that you can't fathom to see. Only way to venture into the Mayhem and come back alive is described in ‘Enter Mayhem’...”
 
-Mayhem Cart is a MERN-stack e-commerce marketplace where adventurers can browse, trade, and claim legendary artifacts from the mysterious realm of Mayhem. This is my second e-commerce web project by order—but the first one born purely from my imagination.
+Mayhem Cart is a MERN-stack e-commerce marketplace where adventurers can browse, trade, and claim legendary artifacts from the mysterious realm of Mayhem. This is my second e-commerce web project by order—but the first one born purely from my imagination. Update (2026Jan: Have added web service ping in frontend load code, so that the app loads the db content instantly without separate kick in new page)
 
 ---
 
